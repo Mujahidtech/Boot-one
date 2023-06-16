@@ -1,2 +1,2 @@
 # Boot-one
-I  developed  this page using HTML,CSS &amp; BOOTSRAP.
+I  developed   page using HTML,CSS &amp; BOOTSRAP.
